@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flutter E-commerce</string>
+    <string name="facebook_app_id">654185126098192</string>
+    <string name="fb_login_protocol_scheme">fb654185126098192</string>
+    <string name="facebook_client_token">654185126098192</string>
+</resources>
